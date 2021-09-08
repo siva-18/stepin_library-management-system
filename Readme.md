@@ -8,8 +8,8 @@ Build | Code Quality | Unity | [Git Inspector]
 [![Contribution Check - Git Inspector](https://github.com/siva-18/stepin_library-management-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/gitinspector.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/siva-18/stepin_library-management-system/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/CodeQuality_Dynamic.yml)
 [![C/C++ CI - Build Status](https://github.com/siva-18/stepin_library-management-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/c-cpp.yml)
-[![code quality score]](https://www.code-inspector.com/project/28297/score/svg)
-[![code grade]](https://www.code-inspector.com/project/28297/status/svg)
+[![code quality score](https://www.code-inspector.com/project/28297/score/svg)
+[![code grade](https://www.code-inspector.com/project/28297/status/svg)
 
 ## Folder Structure
 Folder             | Description
