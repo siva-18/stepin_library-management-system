@@ -4,7 +4,7 @@
 
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+------|----------|-------|[![Unit Testing - Unity](https://github.com/siva-18/stepin_library-management-system/actions/workflows/unity.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/unity.yml)--------------
 
 
 ## Folder Structure
