@@ -3,7 +3,7 @@
 
 
 
-Build | Code Quality | Unity | [Git Inspector]
+
 [![Unit Testing - Unity](https://github.com/siva-18/stepin_library-management-system/actions/workflows/unity.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/unity.yml)
 [![Contribution Check - Git Inspector](https://github.com/siva-18/stepin_library-management-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/gitinspector.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/siva-18/stepin_library-management-system/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/CodeQuality_Dynamic.yml)
