@@ -3,7 +3,7 @@
 ![Banner](https://github.com/hemanthasapu/256889-miniproject-ltts/1_Requirements/Matrix.png)
 
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
+Build | Code Quality | Unity | [Git Inspector]
 [![Unit Testing - Unity](https://github.com/siva-18/stepin_library-management-system/actions/workflows/unity.yml/badge.svg)](https://github.com/siva-18/stepin_library-management-system/actions/workflows/unity.yml)
 
 
